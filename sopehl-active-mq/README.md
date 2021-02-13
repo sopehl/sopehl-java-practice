@@ -21,3 +21,4 @@ The message queue provides temporary message storage when the destination progra
 #### @see
 
 - JMS Topic vs Queue
+- AMQP, messaging-oriented middleware
