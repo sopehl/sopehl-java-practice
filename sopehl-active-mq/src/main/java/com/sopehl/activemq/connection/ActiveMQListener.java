@@ -13,7 +13,7 @@ import org.apache.activemq.command.ActiveMQTextMessage;
  * @author okan.pehlivan
  *
  */
-public class ActiveMQListener implements MessageListener{
+public class ActiveMQListener implements MessageListener {
 
 	public void onMessage(Message message) {
 		 if (message instanceof ActiveMQTextMessage) {

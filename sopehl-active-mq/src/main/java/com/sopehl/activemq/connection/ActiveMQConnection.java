@@ -24,7 +24,8 @@ public class ActiveMQConnection {
 	public Connection createAndStartNewConnection() {
 		Connection connection = null;
     	try {
-    		connection = this.factory.createConnection(ActiveMQConstants.ACTIVEMQ_USERNAME, ActiveMQConstants.ACTIVEMQ_PASSWORD);
+    		connection = this.factory.createConnection(ActiveMQConstants.ACTIVEMQ_USERNAME,
+					ActiveMQConstants.ACTIVEMQ_PASSWORD);
     		connection.start();
 		} catch (JMSException e) {
 			System.err.println("JMS connection problem. Details:" + e);

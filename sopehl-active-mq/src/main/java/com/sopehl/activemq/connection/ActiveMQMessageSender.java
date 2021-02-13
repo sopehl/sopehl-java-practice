@@ -16,10 +16,6 @@ public class ActiveMQMessageSender {
 	private MessageProducer producer;
 	
 	private ActiveMQTextMessage messageText;
-	
-	public ActiveMQMessageSender() {
-		super();
-	}
 
 	public ActiveMQMessageSender(MessageProducer producer) {
 		super();
@@ -29,8 +25,8 @@ public class ActiveMQMessageSender {
 	
 	public void sendMessage(String text) {
 		try {
-			producer.send(this.messageText);
 			messageText.setText(text);
+			producer.send(this.messageText);
 		} catch (JMSException e) {
 			System.out.println("JMS sending message problem. Details:" + e);
 		}
