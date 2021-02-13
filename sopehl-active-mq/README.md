@@ -16,6 +16,7 @@ The message queue provides temporary message storage when the destination progra
 - https://examples.javacodegeeks.com/enterprise-java/jms/apache-activemq-hello-world-example/
 - http://activemq.apache.org/how-does-a-queue-compare-to-a-topic.html
 - https://stackoverflow.com/questions/5576415/jms-topic-vs-queues
+- https://www.cloudamqp.com/blog/2014-12-03-what-is-message-queuing.html
 
 #### @see
 
