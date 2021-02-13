@@ -1,4 +1,4 @@
-#### Getting Started
+#### @getting started
 
 Firstly, start activemq with following command:
 
