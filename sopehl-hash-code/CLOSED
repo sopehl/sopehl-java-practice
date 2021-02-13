@@ -1,0 +1,8 @@
+reference:
+	https://www.javaworld.com/article/3305792/learn-java/java-challengers-4-comparing-java-objects-with-equals-and-hashcode.html
+	https://www.geeksforgeeks.org/system-identityhashcode-method-in-java-with-examples/
+
+include:
+	System.identityHashCode();
+	hashCode();
+	equals(Object obj);

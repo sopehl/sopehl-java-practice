@@ -1,0 +1,5 @@
+// Result without synchronized SynchronizedCounterService.increment() methods.
+
+------End of application------{totalSum : 10436}
+
+// we expected to see 20000 with two threads.

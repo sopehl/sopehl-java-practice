@@ -1,0 +1,8 @@
+reference:
+	https://gist.github.com/dmydlarz/32c58f537bb7e0ab9ebf
+	https://www.mkyong.com/java/java-asymmetric-cryptography-example/
+
+see:
+	Cipher
+	sopehl-cipher
+	RSA

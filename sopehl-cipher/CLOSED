@@ -1,0 +1,15 @@
+reference:
+	https://www.baeldung.com/java-cipher-class
+	https://www.nist.gov/publications/status-advanced-encryption-standard-aes-development-effort
+
+see:
+	AES(Advanced Encryption Standard)
+	DES(Data Encryption Standard)
+	Java Cryptography Extension(JCE)
+	ECB(Electronic Codebook)
+	
+words:
+	ciphertext
+	plaintext
+	encryption 
+	decryption

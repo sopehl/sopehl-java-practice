@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.sopehl</groupId>
+	<artifactId>sopehl-java-traning</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<packaging>pom</packaging>
+
+	<name>java-traning</name>
+	<url>http://maven.apache.org</url>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
+		</dependency>
+		
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.12</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+
+	<modules>
+		<module>sopehl-thread-pool</module>
+		<module>sopehl-blocking-queue</module>
+		<module>tradational-vs-concurrent-collections</module>
+		<module>sopehl-count-down-latch</module>
+		<module>sopehl-reentrantlock</module>
+		<module>sopehl-synchronized</module>
+		<module>sopehl-cyclic-barrier</module>
+		<module>sopehl-hash-code</module>
+		<module>sopehl-chiper</module>
+		<module>sopehl-cipher</module>
+		<module>sopehl-log4j</module>
+		<module>sopehl-asymmetric-crypto-rsa</module>
+		<module>sopehl-mockito</module>
+		<module>sopehl-hazelcast-server</module>
+		<module>sopehl-hazelcast-client</module>
+		<module>sopehl-property-changed-listener</module>
+		<module>sopehl-active-mq</module>
+		<module>sopehl-easymock</module>
+		<module>sopehl-thread-local</module>
+		<module>sopehl-serializable</module>
+		<module>synchronous-queue</module>
+		<module>sopehl-synchronous-queue</module>
+		<module>sopehl-quartz</module>
+    </modules>
+</project>

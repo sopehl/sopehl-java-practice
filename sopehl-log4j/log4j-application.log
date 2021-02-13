@@ -1,0 +1,117 @@
+2019-01-11 16:50:42 DEBUG Log4JDemo:13 - My debug log
+2019-01-11 16:50:42 INFO  Log4JDemo:17 - My info log
+2019-01-11 16:50:42 ERROR Log4JDemo:21 - My error log message : this is your error
+2019-01-11 16:50:42 ERROR Log4JDemo:22 - My error log exception : java.lang.RuntimeException: This is Runtime Exception
+2019-01-11 16:50:42 WARN  Log4JDemo:24 - My warn log
+2019-01-11 16:50:42 FATAL Log4JDemo:25 - My fatal log
+2019-01-11 16:50:42 ERROR Log4JDemo:31 - division by zero error : 
+java.lang.ArithmeticException: / by zero
+	at com.sopehl.log4j.Log4JDemo.main(Log4JDemo.java:28)
+2019-01-11 16:50:44 DEBUG Log4JDemo:13 - My debug log
+2019-01-11 16:50:44 INFO  Log4JDemo:17 - My info log
+2019-01-11 16:50:44 ERROR Log4JDemo:21 - My error log message : this is your error
+2019-01-11 16:50:44 ERROR Log4JDemo:22 - My error log exception : java.lang.RuntimeException: This is Runtime Exception
+2019-01-11 16:50:44 WARN  Log4JDemo:24 - My warn log
+2019-01-11 16:50:44 FATAL Log4JDemo:25 - My fatal log
+2019-01-11 16:50:44 ERROR Log4JDemo:31 - division by zero error : 
+java.lang.ArithmeticException: / by zero
+	at com.sopehl.log4j.Log4JDemo.main(Log4JDemo.java:28)
+2019-01-16 17:16:41 DEBUG Log4JDemo:13 - My debug log
+2019-01-16 17:16:41 INFO  Log4JDemo:17 - My info log
+2019-01-16 17:16:41 ERROR Log4JDemo:21 - My error log message : this is your error
+2019-01-16 17:16:41 ERROR Log4JDemo:22 - My error log exception : java.lang.RuntimeException: This is Runtime Exception
+2019-01-16 17:16:41 WARN  Log4JDemo:24 - My warn log
+2019-01-16 17:16:41 FATAL Log4JDemo:25 - My fatal log
+2019-01-16 17:16:41 ERROR Log4JDemo:31 - division by zero error : 
+java.lang.ArithmeticException: / by zero
+	at com.sopehl.log4j.Log4JDemo.main(Log4JDemo.java:28)
+2019-01-16 17:17:00 DEBUG Log4JDemo:13 - My debug log
+2019-01-16 17:17:00 INFO  Log4JDemo:17 - My info log
+2019-01-16 17:17:00 ERROR Log4JDemo:21 - My error log message : this is your error
+2019-01-16 17:17:00 ERROR Log4JDemo:22 - My error log exception : java.lang.RuntimeException: This is Runtime Exception
+2019-01-16 17:17:00 WARN  Log4JDemo:24 - My warn log
+2019-01-16 17:17:00 FATAL Log4JDemo:25 - My fatal log
+2019-01-16 17:17:00 ERROR Log4JDemo:31 - division by zero error : 
+java.lang.ArithmeticException: / by zero
+	at com.sopehl.log4j.Log4JDemo.main(Log4JDemo.java:28)
+2019-01-16 17:17:18 DEBUG Log4JDemo:13 - My debug log
+2019-01-16 17:17:18 INFO  Log4JDemo:17 - My info log
+2019-01-16 17:17:18 ERROR Log4JDemo:21 - My error log message : this is your error
+2019-01-16 17:17:18 ERROR Log4JDemo:22 - My error log exception : java.lang.RuntimeException: This is Runtime Exception
+2019-01-16 17:17:18 WARN  Log4JDemo:24 - My warn log
+2019-01-16 17:17:18 FATAL Log4JDemo:25 - My fatal log
+2019-01-16 17:17:18 ERROR Log4JDemo:31 - division by zero error : 
+java.lang.ArithmeticException: / by zero
+	at com.sopehl.log4j.Log4JDemo.main(Log4JDemo.java:28)
+2019-01-16 17:18:30 DEBUG Log4JDemo:13 - My debug log
+2019-01-16 17:18:30 INFO  Log4JDemo:17 - My info log
+2019-01-16 17:18:30 ERROR Log4JDemo:21 - My error log message : this is your error
+2019-01-16 17:18:30 ERROR Log4JDemo:22 - My error log exception : java.lang.RuntimeException: This is Runtime Exception
+2019-01-16 17:18:30 WARN  Log4JDemo:24 - My warn log
+2019-01-16 17:18:30 FATAL Log4JDemo:25 - My fatal log
+2019-01-16 17:18:30 ERROR Log4JDemo:31 - division by zero error : 
+java.lang.ArithmeticException: / by zero
+	at com.sopehl.log4j.Log4JDemo.main(Log4JDemo.java:28)
+2019-01-16 17:18:47 DEBUG Log4JDemo:13 - My debug log
+2019-01-16 17:18:47 INFO  Log4JDemo:17 - My info log
+2019-01-16 17:18:47 ERROR Log4JDemo:21 - My error log message : this is your error
+2019-01-16 17:18:47 ERROR Log4JDemo:22 - My error log exception : java.lang.RuntimeException: This is Runtime Exception
+2019-01-16 17:18:47 WARN  Log4JDemo:24 - My warn log
+2019-01-16 17:18:47 FATAL Log4JDemo:25 - My fatal log
+2019-01-16 17:18:47 ERROR Log4JDemo:31 - division by zero error : 
+java.lang.ArithmeticException: / by zero
+	at com.sopehl.log4j.Log4JDemo.main(Log4JDemo.java:28)
+2019-01-16 17:18:58 DEBUG Log4JDemo:13 - My debug log
+2019-01-16 17:18:58 INFO  Log4JDemo:17 - My info log
+2019-01-16 17:18:58 ERROR Log4JDemo:21 - My error log message : this is your error
+2019-01-16 17:18:58 ERROR Log4JDemo:22 - My error log exception : java.lang.RuntimeException: This is Runtime Exception
+2019-01-16 17:18:58 WARN  Log4JDemo:24 - My warn log
+2019-01-16 17:18:58 FATAL Log4JDemo:25 - My fatal log
+2019-01-16 17:18:58 ERROR Log4JDemo:31 - division by zero error : 
+java.lang.ArithmeticException: / by zero
+	at com.sopehl.log4j.Log4JDemo.main(Log4JDemo.java:28)
+2019-01-16 17:19:50 DEBUG Log4JDemo:13 - My debug log
+2019-01-16 17:19:50 INFO  Log4JDemo:17 - My info log
+2019-01-16 17:19:50 ERROR Log4JDemo:21 - My error log message : this is your error
+2019-01-16 17:19:50 ERROR Log4JDemo:22 - My error log exception : java.lang.RuntimeException: This is Runtime Exception
+2019-01-16 17:19:50 WARN  Log4JDemo:24 - My warn log
+2019-01-16 17:19:50 FATAL Log4JDemo:25 - My fatal log
+2019-01-16 17:19:50 ERROR Log4JDemo:31 - division by zero error : 
+java.lang.ArithmeticException: / by zero
+	at com.sopehl.log4j.Log4JDemo.main(Log4JDemo.java:28)
+2019-01-16 17:21:25 DEBUG Log4JDemo:13 - My debug log
+2019-01-16 17:21:25 INFO  Log4JDemo:17 - My info log
+2019-01-16 17:21:25 ERROR Log4JDemo:21 - My error log message : this is your error
+2019-01-16 17:21:25 ERROR Log4JDemo:22 - My error log exception : java.lang.RuntimeException: This is Runtime Exception
+2019-01-16 17:21:25 WARN  Log4JDemo:24 - My warn log
+2019-01-16 17:21:25 FATAL Log4JDemo:25 - My fatal log
+2019-01-16 17:21:25 ERROR Log4JDemo:31 - division by zero error : 
+java.lang.ArithmeticException: / by zero
+	at com.sopehl.log4j.Log4JDemo.main(Log4JDemo.java:28)
+2019-01-16 17:22:09 DEBUG Log4JDemo:13 - My debug log
+2019-01-16 17:22:09 INFO  Log4JDemo:17 - My info log
+2019-01-16 17:22:09 ERROR Log4JDemo:21 - My error log message : this is your error
+2019-01-16 17:22:09 ERROR Log4JDemo:22 - My error log exception : java.lang.RuntimeException: This is Runtime Exception
+2019-01-16 17:22:09 WARN  Log4JDemo:24 - My warn log
+2019-01-16 17:22:09 FATAL Log4JDemo:25 - My fatal log
+2019-01-16 17:22:09 ERROR Log4JDemo:31 - division by zero error : 
+java.lang.ArithmeticException: / by zero
+	at com.sopehl.log4j.Log4JDemo.main(Log4JDemo.java:28)
+2019-06-24 14:54:17 DEBUG Log4JDemo:13 - My debug log
+2019-06-24 14:54:17 INFO  Log4JDemo:17 - My info log
+2019-06-24 14:54:17 ERROR Log4JDemo:21 - My error log message : this is your error
+2019-06-24 14:54:17 ERROR Log4JDemo:22 - My error log exception : java.lang.RuntimeException: This is Runtime Exception
+2019-06-24 14:54:17 WARN  Log4JDemo:24 - My warn log
+2019-06-24 14:54:17 FATAL Log4JDemo:25 - My fatal log
+2019-06-24 14:54:17 ERROR Log4JDemo:31 - division by zero error : 
+java.lang.ArithmeticException: / by zero
+	at com.sopehl.log4j.Log4JDemo.main(Log4JDemo.java:28)
+2020-09-13 18:49:57 DEBUG Log4JDemo:13 - My debug log
+2020-09-13 18:49:57 INFO  Log4JDemo:17 - My info log
+2020-09-13 18:49:57 ERROR Log4JDemo:21 - My error log message : this is your error
+2020-09-13 18:49:57 ERROR Log4JDemo:22 - My error log exception : java.lang.RuntimeException: This is Runtime Exception
+2020-09-13 18:49:57 WARN  Log4JDemo:24 - My warn log
+2020-09-13 18:49:57 FATAL Log4JDemo:25 - My fatal log
+2020-09-13 18:49:57 ERROR Log4JDemo:31 - division by zero error : 
+java.lang.ArithmeticException: / by zero
+	at com.sopehl.log4j.Log4JDemo.main(Log4JDemo.java:28)
